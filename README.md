@@ -9,3 +9,9 @@ This README serves as a tracker for projects migrated out of Smalltalkhub. Feel 
 - (STH project link) => (GH/whatever project link)
 
 As a start, keeping it simple, use the above line as template.
+
+- http://smalltalkhub.com/#!/~Offray/Fossil => https://code.tupale.co/Offray/Fossil
+- http://smalltalkhub.com/#!/~Offray/Grafoscopio => https://code.tupale.co/Offray/Grafoscopio
+- http://smalltalkhub.com/#!/~Offray/Grafoscopio/packages/Grafoscopio-Utils => https://code.tupale.co/Offray/GrafoscopioUtils
+- http://smalltalkhub.com/#!/~Offray/Brea => https://code.tupale.co/Offray/Brea
+
